@@ -1538,6 +1538,7 @@ button:hover .button-text {
 
 #footer .copyright {
   text-align: center;
+  font-size: 8px;
 }
 
 #footer .credits {
@@ -1545,6 +1546,7 @@ button:hover .button-text {
   text-align: center;
   font-size: 13px;
   color: #eaebf0;
+  font-size: 8px;
 }
 
 @media (max-width: 1199px) {
