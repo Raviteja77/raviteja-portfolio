@@ -707,10 +707,15 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.profile-img {
+  border-radius: 15px;
+}
+
 .about-me-title {
   font-weight: 700;
   font-size: 26px;
   color: #173b6c;
+  padding-top: 1rem;
 }
 
 .about .content ul {
